@@ -3,6 +3,7 @@
 A complete browser-based chess game built with **HTML, CSS, and JavaScript**.
 
 Royal Chess is designed to run directly on **GitHub Pages** with no server, database, Node.js, npm, or external libraries required.
+(use here https://garfield678521-prog.github.io/royal-chess/)
 
 ---
 
